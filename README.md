@@ -1,1 +1,2 @@
 # portfolio
+Hi, I'm Sumitraj Kundan Singh, a B.Tech graduate in Artificial Intelligence & Data Science. I'm passionate about building AI-powered applications, machine learning solutions, and scalable software. My portfolio highlights projects in AI, Java, Python, SQL, and web development, along with internships and practical experience. I'm actively seeking opportunities to contribute as a Software Development Engineer, GenAI, or Machine Learning Engineer.
